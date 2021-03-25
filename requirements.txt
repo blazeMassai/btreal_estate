@@ -44,7 +44,7 @@ PyPDF2==1.26.0
 python-dateutil==2.7.3
 python-slugify==1.2.5
 pytz==2018.4
-PyYAML==3.13
+PyYAML==5.4
 reportlab==3.5.8
 requests==2.20.0
 six==1.11.0
